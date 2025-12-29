@@ -13,11 +13,11 @@ export const portfolioData: PortfolioModule[] = [
       { id: "1-2", name: "Viết Testcase", url: "https://njp3ijhflh4v.jp.larksuite.com/sheets/WnD0sCbdWhuSEdt2NJ5jPUq2pAh" },
       { id: "1-3", name: "Soạn bộ câu hỏi Q&A", url: "https://njp3ijhflh4v.jp.larksuite.com/docx/Djk8dDIvMosT31xI0qQjAXIDpjg?from=from_copylink" },
       { id: "1-4", name: "Thiết kế giao diện Sổ tiểu học", url: "https://so-ghi-diem-tieu-hoc-quan-ly-theo-l.vercel.app/" },
-      { id: "1-5", name: "Phân tích ngoại lệ (THCS & THPT)", url: "https://njp3ijhflh4v.jp.larksuite.com/docx/AC7mdkYbJon1ldxMRMRjMAwIps2?from=from_copylink" },
+      { id: "1-5", name: "Phân tích ngoại lệ (THCS & THPT)", url: "https://lop-lua-chon.vercel.app/#/subject-management" },
       { id: "1-6", name: "Test sản phẩm & Lên task thay đổi luồng/giao diện", url: "https://docs.google.com/spreadsheets/d/1fSW_Tr7REBkQYLQT-x_CZ6Twd2LFdx_mIpA_dVZEn4I/edit?gid=0#gid=0" },
       { id: "1-7", name: "Logic tính điểm & Xét lên lớp mới", url: "https://ai.studio/apps/drive/1drQiGurOgTRNL_vy2dWTLpyHumGQ55Pe?fullscreenApplet=true" },
       { id: "1-8", name: "Nhập nhận xét tự động", url: "https://docs.google.com/document/d/1X_fYdSZrCX4y5L00qmhiFLXmgfCnkuzl7V3kUMeQStw/edit?usp=sharing" },
-      { id: "1-9", name: "Luồng lớp lựa chọn , tự chọn THPT", url: "https://ai.studio/apps/drive/1TROtvzfYKdFUMfSCJ8U1RJRvNJ0kF4-S?fullscreenApplet=true" },
+      { id: "1-9", name: "Luồng lớp lựa chọn , tự chọn THPT", url: "https://lop-lua-chon.vercel.app/#/subject-management" },
 
     ],
   },
