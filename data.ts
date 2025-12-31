@@ -50,10 +50,10 @@ export const portfolioData: PortfolioModule[] = [
     title: "Các Module Khác",
     buttonLabel: "Truy cập",
     buttonIconType: 'link',
-    tasks: [
       { id: "4-1", name: "Camera AI", url: "https://drive.google.com/drive/folders/18EuefGo2OzE3_qiqjXIDIm55GaU3E4QD?usp=sharing" },
-      { id: "4-2", name: "Hồ sơ điện tử", url: "https://njp3ijhflh4v.jp.larksuite.com/sheets/KxCcsWh6HhjeL4tTz6pjXdpPpzg?sheet=JmW5sQ&table=tblR7jYJAL6gG9a4&view=vewBHLaAGe" },
+      { id: "4-2", name: "Hồ sơ điện tử", url: "https://phanmem-hosodientu.vercel.app/" },
       { id: "4-3", name: "Sổ chủ nhiệm", url: "https://njp3ijhflh4v.jp.larksuite.com/sheets/KxCcsWh6HhjeL4tTz6pjXdpPpzg?sheet=JmW5sQ&table=tblR7jYJAL6gG9a4&view=vewBHLaAGe" },
+      { id: "4-4", name: "LMS", url: "https://taphuan-lms.vercel.app/" },
     ],
   },
 ];
